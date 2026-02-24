@@ -4,4 +4,4 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 
 # 如果你的主题使用了特殊的插件（比如分页），请确保它们也在列表中
-gem "jekyll-paginate"
+# gem "jekyll-paginate"
